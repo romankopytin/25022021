@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŞÃ¨ûÿÿÿÿ
+G
+java:S2201"*The return value of "concat" must be used.(®Àš¿8›®“Òô.
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(‹ƒÔşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ƒÔşÿÿÿÿ

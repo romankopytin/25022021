@@ -1,0 +1,13 @@
+
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÆÊûÿÿÿÿ8€óÉÒô.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(…–¥ş8êüĞÒô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÆÊûÿÿÿÿ8£ÇÒô.
+n
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(€÷úî8™ÍÜÒô.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÕá¨
+c
+java:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8êüĞÒô.
+n
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(…–¥ş8‘ĞÔÒô.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(€÷úî8¿ôÛÒô.

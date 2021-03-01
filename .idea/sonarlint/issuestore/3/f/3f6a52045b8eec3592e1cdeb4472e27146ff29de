@@ -1,0 +1,22 @@
+
+\
+java:S1481(":Remove this unused "voidCompletableFuture" local variable.(Í¥­âúÿÿÿÿ8“ÚÒĞØ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(è‡•·8ã×ĞØ.
+N
+java:S1602)",Remove useless curly braces around statement(¤´Âúÿÿÿÿ8“ÚÒĞØ.
+P
+java:S1481%".Remove this unused "completed" local variable.(Òî‡íıÿÿÿÿ8¿¦ÍĞØ.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(í¹İşÿÿÿÿ8£ßĞØ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÔ™´8Ò”ôĞô.
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÓŒãƒüÿÿÿÿ8„ÕøĞô.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(€şéúÿÿÿÿ8ÛõŞĞØ.
+N
+java:S39584"2Refactor the code so this stream pipeline is used.(ºÌ‡(8ÛõŞĞØ.
+L
+java:S1481-"*Remove this unused "ended" local variable.(÷äš›üÿÿÿÿ8ã×ĞØ.
+M
+java:S14814"1Remove this unused "stringStream" local variable.(ºÌ‡(8ÛõŞĞØ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ß­Ò¹8“ÚÒĞØ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÓŒãƒüÿÿÿÿ8„ÕøĞô.
